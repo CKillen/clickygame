@@ -1,0 +1,17 @@
+.ui.segment {
+  background: #DCE1C5;
+}
+.ui.attached.header {
+  background: #DB9350;
+}
+
+img:hover {
+  outline: #69CEE4 solid 4px;
+  height: 210px;
+  width: 210px;
+}
+
+img {
+  height: 215px;
+  width: 215px;
+}
